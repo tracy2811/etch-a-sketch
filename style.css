@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+}
+
+button {
+	margin-bottom: 1em;
+}
+
+.grid {
+	margin: auto;
+	width: 600px;
+	height: 600px;
+	background: #000;
+	display: grid;
+	grid-gap: 1px;
+	border: 1px solid #000;
+}
+
+div {
+	background: #fff;
+}
+
+.black {
+	background: #000;
+}
